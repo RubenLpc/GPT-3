@@ -137,6 +137,19 @@
         font-size: 14px;
         line-height: 20px;
     }
+
+    .gpt3__footer-links {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .gpt3__footer-links_logo{
+        justify-content: center;
+        align-items: center;
+    }
+
+
 }
 
 @media screen and (max-width: 400px) {
